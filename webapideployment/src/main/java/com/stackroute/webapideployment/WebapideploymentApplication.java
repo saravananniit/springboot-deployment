@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebapideploymentApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(WebapideploymentApplication.class, args);
+	    System.out.println("welcome to india");
 	}
 
 }

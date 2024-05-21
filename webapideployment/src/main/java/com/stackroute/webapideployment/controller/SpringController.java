@@ -19,6 +19,7 @@ public class SpringController {
         Map<String, String> data =new HashMap<>();
         data.put("name","saravanan");
         data.put("email","saravanan.1.p@niit.com");
+        System.out.println("welcome");
         return data;
     }
 }

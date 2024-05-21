@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/webapideployment.iml" filepath="$PROJECT_DIR$/.idea/webapideployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-deployment.iml" filepath="$PROJECT_DIR$/.idea/springboot-deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapideployment/webapideployment.iml" filepath="$PROJECT_DIR$/webapideployment/webapideployment.iml" />
     </modules>
   </component>
 </project>
